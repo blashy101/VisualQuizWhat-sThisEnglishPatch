@@ -10,6 +10,6 @@ Use Delta Patcher to apply patches: https://www.romhacking.net/utilities/704/
 
 Folder directory should look like this:
 
-SDROOT\atmosphere\contents\01002B001E240000\romfs\Data\*sharedassets0.assets*
+SDROOT\atmosphere\contents\010051C01B754000\romfs\Data\*sharedassets0.assets*
 
 Enjoy!
